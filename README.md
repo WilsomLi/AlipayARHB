@@ -11,6 +11,7 @@ run:
 ./hb.sh
 
 # Requirement
+Python 2.* version
 Python Imaging Library(PIL)
 
 you can use pip to install:
